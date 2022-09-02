@@ -1,0 +1,2 @@
+(this.webpackJsonpMac=this.webpackJsonpMac||[]).push([[61],{1013:function(t,n,e){"use strict";e.r(n),e.d(n,"default",(function(){return s}));var c=e(1026),i=e(1);function s(){return Object(i.jsx)("section",{children:Object(i.jsx)(c.a,{container:!0,spacing:0,direction:"column",alignItems:"center",justifyContent:"center",style:{minHeight:"100vh"},children:Object(i.jsx)(c.a,{item:!0,xs:3})})})}}}]);
+//# sourceMappingURL=61.65696258.chunk.js.map
